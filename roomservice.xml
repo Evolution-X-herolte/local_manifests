@@ -8,8 +8,8 @@
   <!--Blobs-->
   <project name="8890q/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-20.0" remote="github"/>
   <!--PE HW repos-->
-  <project name="PixelExperience/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-20" remote="github" />
-  <project name="PixelExperience/hardware_samsung" path="hardware/samsung" revision="lineage-20" remote="github" />
+  <project name="PixelExperience/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github" />
+  <project name="PixelExperience/hardware_samsung" path="hardware/samsung" revision="thirteen" remote="github" />
   <!--Linaro BSP-->
   <project name="8890q/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" revision="lineage-20" remote="github"/>
   <project name="8890q/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" revision="lineage-20" remote="github"/>
