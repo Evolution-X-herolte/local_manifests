@@ -7,9 +7,9 @@
   <project name="8890q/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" revision="lineage-21.0" remote="github"/>
   <!--Blobs-->
   <project name="8890q/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-21.0" remote="github"/>
-  <!--Lineage HW repos-->
-  <project name="PixelExperience-herolte/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="fourteen" remote="github" />
-  <project name="PixelExperience-herolte/android_hardware_samsung" path="hardware/samsung" revision="fourteen" remote="github" />
+  <!--HW repos-->
+  <project name="Evolution-X-herolte/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="fourteen" remote="github" />
+  <project name="Evolution-X-herolte/android_hardware_samsung" path="hardware/samsung" revision="fourteen" remote="github" />
   <!--Linaro BSP-->
   <project name="8890q/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" revision="lineage-20" remote="github"/>
   <project name="8890q/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" revision="lineage-20" remote="github"/>
